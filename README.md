@@ -1,4 +1,5 @@
 # Publishing URL Contents to Kafka
+## Step-by-step guide to ingest contents from a HTTP request or REST API response into Kafka
 
 This notebook will walk you through publishing contents of a URL into Kafka. 
 
